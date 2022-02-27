@@ -1,0 +1,507 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius ecclesiasticus: or, Doctor Cozens his visitation at Warrington in Lancashire, with divers presentments and censures therein passed. Together with a true story of the reader of Liverpoole his twice over wronged breeches, brought before the said doctor there.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89072</idno>
+            <idno type="STC">Wing M1765</idno>
+            <idno type="STC">Thomason E24_1</idno>
+            <idno type="STC">ESTC R11436</idno>
+            <idno type="EEBO-CITATION">99859028</idno>
+            <idno type="PROQUEST">99859028</idno>
+            <idno type="VID">111089</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89072)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111089)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E24[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius ecclesiasticus: or, Doctor Cozens his visitation at Warrington in Lancashire, with divers presentments and censures therein passed. Together with a true story of the reader of Liverpoole his twice over wronged breeches, brought before the said doctor there.</title>
+                  <author>Nedham, Marchamont, 1620-1678, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire, in verse. --Cf. Thomason Coll.</note>
+                  <note>Attributed to Marchamont Nedham in the Wrenn catalogue.</note>
+                  <note>Annotation on Thomason copy: "Jan: 7th 1644"; the 5 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warrington (England) --  History --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111089:1"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:111089:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <p>
+               <hi>Mercurius Eccleſiasticus:</hi> OR, DOCTOR <hi>COZENS</hi> HIS VISITATION At Warrington in Lancaſhire, with divers PRESENTMENTS and CEN<g ref="char:EOLhyphen"/>SVRES therein paſſed.</p>
+            <p>TOGETHER With a true Story of the READER of LIVERPOOLE his twice over wronged Breeches, brought before the ſaid Doctor there.</p>
+            <q xml:lang="lat">
+               <l>—nec ſcombros metuentia carmina—</l>
+            </q>
+            <p>
+               <add>Jan: 7<hi rend="sup">th</hi> 1644</add> Printed in the yeer 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:111089:2"/>
+            <!-- PDF PAGE 87 -->
+            <pb n="1" facs="tcp:111089:2"/>
+            <!-- PDF PAGE 87 -->
+            <head>Doctor COSENS his Viſitation at <hi>Warington</hi> in <hi>Lancaſhire:</hi> with a true ſtory of the Reader of <hi>Liverpoole</hi> his double-wronged Breeches <hi>brought before him there.</hi>
+            </head>
+            <lg>
+               <l>THE plunder-Church yeer 'twas, whence <hi>Yorke</hi>
+               </l>
+               <l>Sent forth thoſe Harpies of her Kirke</l>
+               <l>
+                  <hi>Eſdall, Wickam,</hi> and <hi>Cozens:</hi>
+               </l>
+               <l>The laſt was he that then fate on</l>
+               <l>The skorners Bench at Warington,</l>
+               <l>to ſell ſinne by the dozens.</l>
+            </lg>
+            <lg>
+               <l>Had you but heard this Dragon roare</l>
+               <l>So farre 'bove that of <hi>Eglimore,</hi>
+               </l>
+               <l>or ſeene this rampant Prieſt</l>
+               <l>Ttample the Puritan, you wou'd</l>
+               <l>Have ſworne him one of th'very brood</l>
+               <l>
+                  <hi>come out o'the mouth o'th' Beaſt:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In the firſt place, his long Oration</l>
+               <l>Was ſpent o'th' Kings late Declaration,</l>
+               <l>that none ſhould dare to Preach</l>
+               <l>
+                  <pb n="2" facs="tcp:111089:3"/>
+                  <!-- PDF PAGE 88 -->
+Againſt <hi>Arminian</hi> points, but that</l>
+               <l>They ſhould preſſe Goſpell truths, whence flat</l>
+               <l>he did enjoyne to teach.</l>
+            </lg>
+            <lg>
+               <l>All mens ſalvation that would will</l>
+               <l>Graces receipt: he ſhewd the ill</l>
+               <l>of Lectures, Repetitions,</l>
+               <l>Afternoone Sermons, and the blame</l>
+               <l>Of other forme then <hi>Whats your Name,</hi>
+               </l>
+               <l>or on that, Expoſitions.</l>
+            </lg>
+            <lg>
+               <l>All unbookd prayers he could not ſee,</l>
+               <l>To be ought elſe but blaſphemy,</l>
+               <l>what? on the ſpirit to father</l>
+               <l>An abortive prayer, whereunto</l>
+               <l>The Canon was not Mid-wife, no</l>
+               <l>nor Holy Church the mother?</l>
+            </lg>
+            <lg>
+               <l>The Doctor the preſentments all,</l>
+               <l>With fury tore in peeces ſmall,</l>
+               <l>that brought in <hi>omnia bene;</hi>
+               </l>
+               <l>Charg'd them to make a new report,</l>
+               <l>The reaſon was unto the Court,</l>
+               <l>they were not wotth a penny.</l>
+            </lg>
+            <lg>
+               <l>In the preſentments that were brought,</l>
+               <l>One was ſo ſawcy, or ill taught,</l>
+               <l>at the Altar for to leane;</l>
+               <l>From the Church-yard hedge was one had pluk't</l>
+               <l>A twig to ſtill her child that ſuck'd,</l>
+               <l>ah, ſacrilegious Queane.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:111089:3"/>
+               <!-- PDF PAGE 88 -->
+               <l>A Butcher his unhallowed Calfe</l>
+               <l>To the Church-yard ſtile had tyed ſafe,</l>
+               <l>all muſt their pennance doe;</l>
+               <l>Another for adultery</l>
+               <l>Eſcap'd much better, for that he</l>
+               <l>rapt out an oth or two.</l>
+            </lg>
+            <lg>
+               <l>A rich-noſ'd Hoſt appear'd being drunke,</l>
+               <l>He wiſht all Puritans were ſunke</l>
+               <l>in their <hi>New-England</hi> paſſage;</l>
+               <l>The Doctor did conclude the man,</l>
+               <l>No Church imbroyling Puritan,</l>
+               <l>he knew it by his viſage.</l>
+            </lg>
+            <lg>
+               <l>And ſo he ſcap'd, paying his fees,</l>
+               <l>So did not he, but loſt a Fleece</l>
+               <l>with's Neighbour that durſt pray;</l>
+               <l>A Miniſter call'd <hi>Sabath Clerke</hi>
+               </l>
+               <l>The Doctor re-baptiz'd, took's <hi>marke,</hi>
+               </l>
+               <l>and call'd him <hi>Saturday.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A Reader 'mong the reſt he ſpyed,</l>
+               <l>Blew were his Breeches which the tyde</l>
+               <l>o'the Doctors rage did ſell;</l>
+               <l>He ſtampt and ſtar'd, and grew ſtarke mad</l>
+               <l>The adventure dyre and ſtory ſad,</l>
+               <l>I meane you (here) to tell</l>
+            </lg>
+            <lg>
+               <l>It was a four-pound right Sir <hi>John,</hi>
+               </l>
+               <l>That Service read at <hi>L'erpoole</hi> Towne,</l>
+               <l>His name was <hi>John Wain-wright;</hi>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:111089:4"/>
+                  <!-- PDF PAGE 89 -->
+Had that been too his occupation,</l>
+               <l>It had been better for the Nation</l>
+               <l>(with many a ſuch like Wight.)</l>
+            </lg>
+            <lg>
+               <l>His Maſter-piece and higheſt praiſe,</l>
+               <l>'Twas bidding right the Holy-dayes</l>
+               <l>and chanting out proceſſion;</l>
+               <l>Kerſning, burying, marrying faire,</l>
+               <l>Giving good morrow to Maſter Mayor,</l>
+               <l>tho' in the midſt o'th Leſſon.</l>
+            </lg>
+            <lg>
+               <l>He paſſed for a quiet ſoule,</l>
+               <l>And no mans foe, did not controule</l>
+               <l>his pariſh'ners in their ſports;</l>
+               <l>The Pipers faithfull advocate,</l>
+               <l>And Beare-heards too, had no mans hate,</l>
+               <l>was free to all reſorts.</l>
+            </lg>
+            <lg>
+               <l>Withall he deerly lov'd a cup,</l>
+               <l>And of it often deep would ſup,</l>
+               <l>and then as oft beſh— him;</l>
+               <l>And now his thoughts were all upon</l>
+               <l>The approaching Viſitation,</l>
+               <l>and how there to acquit him.</l>
+            </lg>
+            <lg>
+               <l>Fraught with his Orders, Licenſe, Fees,</l>
+               <l>His Coat Canonicall (tho' freeze)</l>
+               <l>a Church-Warden went too,</l>
+               <l>Who with a Wallet was ſo loaden,</l>
+               <l>Before that many a mile they'd troden,</l>
+               <l>the Prieſt he gan to ſue.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:111089:4"/>
+               <!-- PDF PAGE 89 -->
+               <l>To beare the box of the preſentments,</l>
+               <l>So on they went without reſentments</l>
+               <l>to <hi>Ranehill</hi> till they came,</l>
+               <l>An Ale<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>houſe (there) ſtood by the way</l>
+               <l>Which ſoone invited them to ſtay,</l>
+               <l>the Ale was of good fame.</l>
+            </lg>
+            <lg>
+               <l>They call'd ſo oft for to'ther cup,</l>
+               <l>That all the Ale was quite drunk up,</l>
+               <l>ſave what untun'd remain'd;</l>
+               <l>To that they fell, the night grew on,</l>
+               <l>Their thoughts were quench'd towards <hi>Warrington,</hi>
+               </l>
+               <l>the Prieſts breech was ill ſtaind.</l>
+            </lg>
+            <lg>
+               <l>Both ſoundly drunke, to bed they'l goe,</l>
+               <l>The Roomes o'th' houſe were ordered ſo,</l>
+               <l>that the good wife was faine</l>
+               <l>In the ſame roome to coole her grout</l>
+               <l>Where they both lay (ſans feare or doubt)</l>
+               <l>the chance was Maſter <hi>Waine,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Right</hi> laid his wronged breeches doewn</l>
+               <l>Upon the very ſelf-ſame Cowme,</l>
+               <l>wherein the working Ale was;</l>
+               <l>Doubtleſſe he took it ſeeing th'froth</l>
+               <l>For a round table and white cloth,</l>
+               <l>how'ere, it came to paſſe</l>
+            </lg>
+            <lg>
+               <l>The Breeches fitter much for <hi>Lee,</hi>
+               </l>
+               <l>Grew ſteep'd in Ale for company,</l>
+               <l>and with the owner drunk,</l>
+               <l>
+                  <pb n="6" facs="tcp:111089:5"/>
+                  <!-- PDF PAGE 90 -->
+So weighty were the boxes, fees,</l>
+               <l>Sinfull preſentments, that to th' Lees,</l>
+               <l>no mervaile if they ſunke.</l>
+            </lg>
+            <lg>
+               <l>The Ale in triumph o're ſuch ſpoyles,</l>
+               <l>Swell'd high and mantl'd, but thoſe broyles</l>
+               <l>'tad quickly againe a laid;</l>
+               <l>No mervaile, now 'twas impoſſeſſion</l>
+               <l>Without abatement, ſtrife or queſtion</l>
+               <l>of the reckning not yet paid.</l>
+            </lg>
+            <lg>
+               <l>Beſides, hereby the ſtreame i'th' breech</l>
+               <l>Returnd unto its ſpring, by which</l>
+               <l>it was repaird againe,</l>
+               <l>And the preſentments being drownd,</l>
+               <l>That to it a foe might have been found</l>
+               <l>it needed not complaine.</l>
+            </lg>
+            <lg>
+               <l>The Curate and the Warden both</l>
+               <l>Steept as they were in Barly broth,</l>
+               <l>felt neither ach nor ſtitches,</l>
+               <l>They'd tune a medicine for the fleas,</l>
+               <l>Feard not the next dayes hard releaſe,</l>
+               <l>but lay ſtill as the Breeches.</l>
+            </lg>
+            <lg>
+               <l>The morning comes, they both ariſe,</l>
+               <l>Say o're the Creed and rub their eyes,</l>
+               <l>meane quickly to be packing,</l>
+               <l>The Reader ready to put on</l>
+               <l>His Breeches, but he found anon</l>
+               <l>(woe worth him) they were lacking</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:111089:5"/>
+               <!-- PDF PAGE 90 -->
+               <l>He ſought them all the roome about</l>
+               <l>In every place ſave in the Grout;</l>
+               <l>who would them there ſuppoſe?</l>
+               <l>The Ale lookt juſt as did o're night,</l>
+               <l>Undrunk, no ſecrets to the light</l>
+               <l>would it all diſcloſe.</l>
+            </lg>
+            <lg>
+               <l>The Conſtable was ſent for ſoone,</l>
+               <l>The Prieſt cryed out he was undone,</l>
+               <l>the fees, preſentments loſt;</l>
+               <l>Orders, Licenſe, all were gone,</l>
+               <l>Which many a yeere h' had liv'd upon,</l>
+               <l>and many a groat had coſt.</l>
+            </lg>
+            <lg>
+               <l>He charg'd the Hoſt t' have ſtolne them all,</l>
+               <l>It booted not to whine or braule,</l>
+               <l>at length it was concluded,</l>
+               <l>Rather then not to make apparance,</l>
+               <l>The Reader ſhould put on <hi>Hodge Laurence</hi>
+               </l>
+               <l>his Breeches tho' th' were blew-died.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Laurence</hi> the preſentments gone,</l>
+               <l>Lik'd not t' appeare at <hi>Warrington,</hi>
+               </l>
+               <l>but was content to ſtay</l>
+               <l>In ſoccage for the ſhot unpaid,</l>
+               <l>While the Curate with his breech arrayed</l>
+               <l>would beare the heat o' th' day.</l>
+            </lg>
+            <lg>
+               <l>Which prov'd not ſmall I can aſſure yee,</l>
+               <l>For why? the Doctor grew in fury,</l>
+               <l>at the ſtrange Breeches hew;</l>
+               <l>
+                  <pb n="8" facs="tcp:111089:6"/>
+                  <!-- PDF PAGE 91 -->
+He ask'd what mot'ly gull it was</l>
+               <l>That there did dare to ſhew his face,</l>
+               <l>in cloths thus black and blew.</l>
+            </lg>
+            <lg>
+               <l>Whether holy Orders h' had tane?</l>
+               <l>Where he officiated? what lane</l>
+               <l>or hedge-prieſt he might be?</l>
+               <l>The ſilly man being quite confounded</l>
+               <l>With ſhame and horrour, all ſurrounded</l>
+               <l>fell downe upon his knee:</l>
+            </lg>
+            <lg>
+               <l>Told him the whole, how h' came out</l>
+               <l>Cloth'd all in black from head to foot,</l>
+               <l>but had been rob'd, (alas)</l>
+               <l>His Breeches, Orders, Fees were gone,</l>
+               <l>Preſentments too, not he alone</l>
+               <l>but th' Court a looſer was.</l>
+            </lg>
+            <lg>
+               <l>When of this ſacrilegious charge,</l>
+               <l>The Doctor was inform'd at large,</l>
+               <l>he vow'd that he would make</l>
+               <l>The Hoſt a moſt example dread</l>
+               <l>of juſtice, as had ever head</l>
+               <l>or hand in plot ſo black.</l>
+            </lg>
+            <lg>
+               <l>Immediately he ſent a Somner:</l>
+               <l>The Catchpole was no ſooner come neere</l>
+               <l>to the ſuſpected place,</l>
+               <l>But in the turning of her Grout,</l>
+               <l>The Wife had found the Breeches out,</l>
+               <l>howbeit, in wofull caſe.</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:111089:6"/>
+               <!-- PDF PAGE 91 -->
+               <l>But when the whole was fully knowne,</l>
+               <l>And 'bout the Towne in rumour blowne,</l>
+               <l>the Doctor did aſſay,</l>
+               <l>The Stinking ſtirre to have referr'd,</l>
+               <l>By him and's fellowes to be heard,</l>
+               <l>and cleanly made away.</l>
+            </lg>
+            <lg>
+               <l>The Hoſt and Hoſteſſe they cryed, no,</l>
+               <l>But to the common Law they'd goe,</l>
+               <l>at <hi>Derby</hi> Court they'd try it:</l>
+               <l>Two Actions they had anent him,</l>
+               <l>Whereby they'd make him to repent him,</l>
+               <l>and h' ſhould dearly buy it.</l>
+            </lg>
+            <lg>
+               <l>One was of ſlander of their houſing,</l>
+               <l>Th' other 'twas the brewing looſing;</l>
+               <l>whereto the Prieſt did plead.</l>
+               <l>The houſe it had (with many a curſe)</l>
+               <l>Of many a gueſt oft pickt the purſe</l>
+               <l>by its large reckonings made.</l>
+            </lg>
+            <lg>
+               <l>And for the Ale he prov'd it cleere,</l>
+               <l>They'd ſold it off as ſoone, and deare</l>
+               <l>as any other brewing;</l>
+               <l>And that it was more ſtrong and ſtale</l>
+               <l>And much the more canonicall,</l>
+               <l>by th' aforeſaid Breeches ſtewings.</l>
+            </lg>
+            <lg>
+               <l>This doubled ſuit was often traverſed,</l>
+               <l>Renew'd againe, and againe reverſed,</l>
+               <l>untill to one o'th Quorum,</l>
+               <l>
+                  <pb n="10" facs="tcp:111089:7"/>
+                  <!-- PDF PAGE 92 -->
+It was referred as Umpire ſage</l>
+               <l>With other two,<note place="margin">Two be<g ref="char:EOLhyphen"/>longing to the Court.</note> it to aſſwage,</l>
+               <l>
+                  <hi>will Oufald</hi> and <hi>John Orum.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Who ended it with much adoe,</l>
+               <l>After both ſides began to rue.</l>
+               <l>the Lawyers many Quiblets,</l>
+               <l>By turning (as the Proverb ſayes)</l>
+               <l>The Hares head (as in ſuch like frayes)</l>
+               <l>unto the Wild-gooſe Giblets.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
